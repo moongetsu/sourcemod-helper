@@ -1,4 +1,4 @@
-# SourceMod Hlper 👀
+# SourceMod Helper 👀
 A software that can be useful for SourceMod Developers.
 
 # Instalation ❗
