@@ -1,3 +1,3 @@
 @echo off
-python (your path)
+python "Your Path/sourcemod_software.py"
 pause
