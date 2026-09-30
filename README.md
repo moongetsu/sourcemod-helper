@@ -1,3 +1,9 @@
+> [!IMPORTANT]
+> ### 🚨 Repository Moved to GitLab
+> This repository has officially migrated to **GitLab** and is now archived on GitHub for historical reference.
+>
+> 📦 **Active Development & Releases**: [https://gitlab.com/moongetsu/sourcemod-helper](https://gitlab.com/moongetsu/sourcemod-helper)
+
 # SourceMod Helper 👀
 A software that can be useful for SourceMod Developers.
 
